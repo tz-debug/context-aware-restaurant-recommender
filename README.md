@@ -1,67 +1,101 @@
-# Context-Aware Hybrid Restaurant Recommender for Pakistan and the UK
+# Context-Aware Restaurant Recommender
 
-A starter MVP for a live-style restaurant recommender that supports Pakistan and the UK using location-aware, preference-aware ranking.
+## Overview
 
-## Live Build Strategy
+This project implements a context-aware restaurant recommender system for Pakistan and the UK. It combines user preferences, restaurant features, and location-based filtering to generate personalized recommendations.
 
-This project is designed to start with a cached restaurant catalog and then evolve into a production-style system with API ingestion and hybrid ranking.
+The system follows a hybrid recommendation approach using content-based signals (cuisine, dietary tags) and contextual factors such as distance, rating, popularity, and availability.
 
-### MVP included here
-- Streamlit interface
-- country and city filtering
-- cuisine and dietary filters
-- budget and dining mode controls
-- location-aware ranking using distance
-- weighted hybrid-style scoring using:
-  - content match
-  - rating
-  - popularity
-  - distance
-  - budget fit
-  - open-now signal
-  - favorite restaurant boost
+---
 
-### Next production steps
-- ingest restaurants from Google Places or Foursquare
-- cache data in PostgreSQL or CSV snapshots
-- add user accounts and interaction logging
-- add collaborative filtering from ratings, clicks, and saves
-- evaluate with ranking metrics such as Precision@K and NDCG@K
+## Live Demo
 
-## Files
+Access the deployed application here:  
+https://context-aware-restaurant-recommender.streamlit.app/
 
-- `restaurant_recommender_mvp.py`
-- `demo_restaurants.csv`
-- `restaurant_recommender_README.md`
-- `restaurant_recommender_requirements.txt`
+---
 
-## Run locally
+## Technology Stack
 
-```bash
-pip install -r restaurant_recommender_requirements.txt
-streamlit run restaurant_recommender_mvp.py
-```
+- Python  
+- Streamlit  
+- Pandas  
+- NumPy  
 
-## CSV schema
+---
 
-Your restaurant dataset should include these columns:
+## Features
 
-- `restaurant_id`
-- `name`
-- `country`
-- `city`
-- `area`
-- `lat`
-- `lon`
-- `cuisines`
-- `dietary_tags`
-- `price_band`
-- `rating`
-- `review_count`
-- `delivery_available`
-- `dine_in_available`
-- `open_now`
+- Location-based filtering (country, city, distance)
+- Preference-based recommendations (cuisines, dietary tags)
+- Budget and dining mode selection (delivery, dine-in)
+- Real-time ranking with adjustable weights
+- Explainable recommendations with reasoning
+- Interactive map visualization
+- Export recommendations as CSV
+- Persona-based presets (e.g., Budget Student, Family Dining)
 
-## Notes on live APIs
+---
 
-A practical production version should fetch restaurant candidates from an official provider, then cache results locally so recommendation requests do not repeatedly hit external APIs. This reduces cost and makes the app faster and more stable.
+## Recommendation Logic
+
+The system ranks restaurants using a weighted scoring model:
+
+- Content match (cuisine and dietary alignment)
+- Rating and popularity
+- Distance from user
+- Budget compatibility
+- Availability (open now)
+- User favourites
+
+This design allows flexible tuning of recommendation behavior and supports both experimentation and practical applications.
+
+---
+
+## Dataset
+
+The application uses a structured dataset with restaurants across:
+
+- Pakistan: Lahore, Karachi, Islamabad  
+- UK: London, Manchester, Birmingham  
+
+Each record includes:
+
+- Location (latitude, longitude, city, area)
+- Cuisine and dietary tags
+- Ratings and review counts
+- Availability (delivery, dine-in, open now)
+- Price band
+
+---
+
+## Limitations
+
+- Uses a static dataset without live API integration
+- No collaborative filtering implemented
+- No persistent user profiles
+- Recommendation quality depends on dataset size and quality
+
+---
+
+## Future Improvements
+
+- Integration with Google Places or Foursquare APIs
+- Automated data ingestion pipeline
+- Collaborative filtering and personalization
+- Learning-to-rank models
+- User authentication and saved preferences
+- Evaluation metrics and A/B testing
+
+---
+
+## Purpose
+
+This project demonstrates:
+
+- End-to-end design of a recommendation system
+- Context-aware ranking and feature engineering
+- Deployment of interactive data applications using Streamlit
+- Practical application of machine learning concepts
+
+It is suitable for both industry portfolios and academic exploration in recommender systems.
