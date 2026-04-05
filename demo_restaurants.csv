@@ -1,0 +1,185 @@
+restaurant_id,name,country,city,area,lat,lon,cuisines,dietary_tags,price_band,rating,review_count,delivery_available,dine_in_available,open_now
+1,The Royal Model Town,Pakistan,Lahore,Model Town,31.463976,74.324937,karahi|desi|family,halal|family,medium,4.3,640,True,True,True
+2,Garden Pantry Model Town,Pakistan,Lahore,Model Town,31.551457,74.317859,coffee|desserts|bakery,vegetarian options,low,4.6,226,True,True,True
+3,Blue Social MM Alam,Pakistan,Lahore,MM Alam,31.515531,74.313679,pakistani|desi|family,halal|family,medium,4.6,12075,False,True,True
+4,Blue Cafe Model Town,Pakistan,Lahore,Model Town,31.553168,74.416927,seafood|grill|family,halal|family,high,3.7,3853,False,True,True
+5,Golden Social Johar Town,Pakistan,Lahore,Johar Town,31.572799,74.376464,fine dining|fusion,halal,high,4.4,11618,True,True,True
+6,Garden Spot DHA,Pakistan,Lahore,DHA,31.559016,74.395305,fast food|curry|street food,halal options|vegetarian options,medium,4.5,3872,True,True,False
+7,Saffron Feast Liberty,Pakistan,Lahore,Liberty,31.492186,74.328295,fast food|desserts|bakery,vegetarian options,low,4.4,2460,True,True,True
+8,Saffron Bistro Liberty,Pakistan,Lahore,Liberty,31.535694,74.39375,bbq|vegan|international,vegan|vegetarian,medium,4.6,2624,True,True,True
+9,Urban House Johar Town,Pakistan,Lahore,Johar Town,31.552632,74.339521,cafe|brunch,gluten-free options|vegetarian options,medium,4.2,4491,True,True,True
+10,Golden House Model Town,Pakistan,Lahore,Model Town,31.52132,74.322569,cafe|desserts|bakery,vegetarian options,low,4.0,10588,True,True,False
+11,House of Heritage Liberty,Pakistan,Lahore,Liberty,31.565761,74.412334,pakistani|bbq|karahi,halal|family,medium,3.9,4066,True,True,True
+12,Golden Lounge Liberty,Pakistan,Lahore,Liberty,31.57187,74.389332,continental|italian|cafe,halal,high,4.3,3590,True,True,True
+13,The Lime Model Town,Pakistan,Lahore,Model Town,31.488014,74.325126,cafe|fusion,halal,high,3.6,9195,True,True,True
+14,Cafe Saffron Gulberg,Pakistan,Lahore,Gulberg,31.5573,74.321549,bbq|italian,vegetarian options,low,3.9,7869,True,True,True
+15,Street Table Johar Town,Pakistan,Lahore,Johar Town,31.473512,74.321691,fast food|desserts|bakery,vegetarian options,low,4.0,14237,True,True,True
+16,Royal Pantry Johar Town,Pakistan,Lahore,Johar Town,31.466471,74.418614,asian|thai|chinese,halal,high,4.6,1724,False,False,False
+17,Central Feast DHA,Pakistan,Lahore,DHA,31.578637,74.330524,continental|italian|cafe,halal,high,3.8,155,False,True,True
+18,Cafe Spice Model Town,Pakistan,Lahore,Model Town,31.467715,74.336333,british|brunch|cafe,gluten-free options|vegetarian options,medium,4.3,9003,True,True,False
+19,The Garden Liberty,Pakistan,Lahore,Liberty,31.528761,74.36817,cafe|italian,halal,high,4.1,14706,True,True,True
+20,Taste of Green Liberty,Pakistan,Lahore,Liberty,31.515267,74.410182,karahi|brunch|cafe,gluten-free options|vegetarian options,medium,4.4,5035,False,True,True
+21,Riverside Grill Liberty,Pakistan,Lahore,Liberty,31.489714,74.332898,bbq|desi|family,halal|family,medium,4.7,14525,True,True,True
+22,Heritage House Model Town,Pakistan,Lahore,Model Town,31.567166,74.38779,asian|brunch|cafe,gluten-free options|vegetarian options,medium,3.8,2011,True,True,True
+23,Riverside Co. MM Alam,Pakistan,Lahore,MM Alam,31.471476,74.349529,asian|thai|chinese,halal,high,4.7,952,True,True,False
+24,Cafe Spice Model Town 2,Pakistan,Lahore,Model Town,31.526703,74.350274,continental|burgers|fries,halal,low,4.6,9663,True,True,False
+25,Street Social Gulberg,Pakistan,Lahore,Gulberg,31.57726,74.388637,bbq|italian,vegetarian options,low,4.7,6778,False,True,True
+26,Lime Plate DHA,Pakistan,Lahore,DHA,31.49018,74.317804,fast food|vegan|international,vegan|vegetarian,medium,4.6,13403,True,True,True
+27,Blue Hub Johar Town,Pakistan,Lahore,Johar Town,31.46324,74.321876,continental|thai|chinese,halal,high,4.6,3772,True,True,False
+28,Cedar Spot MM Alam,Pakistan,Lahore,MM Alam,31.481828,74.414204,pizza|italian,vegetarian options,low,3.7,4399,True,True,True
+29,Street Feast Model Town,Pakistan,Lahore,Model Town,31.545454,74.298903,cafe|italian,vegetarian options,low,3.8,847,False,True,True
+30,House of Lime Model Town,Pakistan,Lahore,Model Town,31.546771,74.334739,coffee|desserts|bakery,vegetarian options,low,4.4,2161,True,True,True
+31,Cedar Corner Saddar,Pakistan,Karachi,Saddar,24.900747,66.977565,continental|brunch|cafe,gluten-free options|vegetarian options,medium,4.0,9097,True,True,True
+32,Central Co. Saddar,Pakistan,Karachi,Saddar,24.821063,66.951275,cafe|curry|street food,halal options|vegetarian options,medium,4.8,12177,True,True,True
+33,Cafe Saffron Do Darya,Pakistan,Karachi,Do Darya,24.809439,66.990833,fast food|fusion,halal,high,4.3,12710,True,True,True
+34,Urban House Gulshan,Pakistan,Karachi,Gulshan,24.915656,67.003255,cafe|vegan|international,vegan|vegetarian,medium,3.9,13294,True,True,False
+35,Lime Pantry Gulshan,Pakistan,Karachi,Gulshan,24.851909,67.049923,continental|italian|cafe,halal,high,4.5,8390,True,True,False
+36,Riverside Co. Gulshan,Pakistan,Karachi,Gulshan,24.886325,66.969239,fast food|burgers|fries,halal,low,3.9,1389,True,True,True
+37,Central Bistro Do Darya,Pakistan,Karachi,Do Darya,24.850593,66.96592,bbq|thai|chinese,halal,high,4.0,7753,True,True,True
+38,House of Heritage Bahadurabad,Pakistan,Karachi,Bahadurabad,24.907697,67.041387,pakistani|bbq|karahi,halal|family,medium,4.5,14102,True,True,False
+39,Saffron Kitchen Do Darya,Pakistan,Karachi,Do Darya,24.849218,66.960905,continental|curry|street food,halal options|vegetarian options,medium,4.4,13196,True,True,True
+40,Urban Bistro Clifton,Pakistan,Karachi,Clifton,24.822507,66.972319,vegetarian|vegan|international,vegan|vegetarian,medium,3.8,7684,True,True,True
+41,Olive Lounge Gulshan,Pakistan,Karachi,Gulshan,24.86543,67.061089,fast food|burgers|fries,halal,low,4.2,12392,True,True,False
+42,Garden Cafe Bahadurabad,Pakistan,Karachi,Bahadurabad,24.815847,67.021435,pakistani|bbq|karahi,halal|family,medium,4.3,4028,True,True,True
+43,Street Corner Saddar,Pakistan,Karachi,Saddar,24.912166,67.010196,continental|italian|cafe,halal,high,3.7,540,False,True,False
+44,Garden House Do Darya,Pakistan,Karachi,Do Darya,24.872749,66.955627,pakistani|desi|family,halal|family,medium,4.0,11330,False,True,True
+45,Lime Kitchen Gulshan,Pakistan,Karachi,Gulshan,24.852723,66.984563,biryani|fusion,halal,high,4.6,1849,False,True,True
+46,Riverside Co. Do Darya,Pakistan,Karachi,Do Darya,24.832907,67.043306,coffee|desserts|bakery,vegetarian options,low,4.6,9827,False,True,False
+47,House of Golden Do Darya,Pakistan,Karachi,Do Darya,24.89644,66.981941,indian|curry|street food,halal options|vegetarian options,medium,4.2,5933,False,True,True
+48,Royal Room Clifton,Pakistan,Karachi,Clifton,24.829539,66.998231,british|brunch|cafe,gluten-free options|vegetarian options,medium,4.2,12541,True,True,True
+49,Heritage Social Saddar,Pakistan,Karachi,Saddar,24.920296,67.007147,bbq|thai|chinese,halal,high,4.2,7091,True,True,True
+50,Lime House Do Darya,Pakistan,Karachi,Do Darya,24.822918,66.967066,pakistani|desi|family,halal|family,medium,4.7,11427,True,True,False
+51,Cafe Heritage DHA,Pakistan,Karachi,DHA,24.81589,66.946562,pakistani|grill|family,halal|family,high,3.6,8871,True,True,False
+52,Heritage Co. Bahadurabad,Pakistan,Karachi,Bahadurabad,24.830997,67.044507,pakistani|curry|street food,halal options|vegetarian options,medium,4.0,961,True,True,True
+53,Green Grill DHA,Pakistan,Karachi,DHA,24.91997,66.955314,fine dining|fusion,halal,high,4.7,1515,True,True,False
+54,Heritage Plate Do Darya,Pakistan,Karachi,Do Darya,24.915913,66.953008,continental|brunch|cafe,gluten-free options|vegetarian options,medium,4.3,10108,True,True,True
+55,Taste of Saffron Clifton,Pakistan,Karachi,Clifton,24.835273,66.975026,biryani|italian|cafe,halal,high,3.9,3912,False,True,True
+56,Cafe Green Saddar,Pakistan,Karachi,Saddar,24.817768,66.948257,fine dining|fusion,halal,high,4.7,13663,False,True,False
+57,Heritage Feast Saddar,Pakistan,Karachi,Saddar,24.853231,67.012864,cafe|curry|street food,halal options|vegetarian options,medium,4.2,8210,False,True,True
+58,Urban Lounge Clifton,Pakistan,Karachi,Clifton,24.85716,67.019281,cafe|desi|family,halal|family,medium,4.5,2990,False,True,True
+59,Saffron Social Bahadurabad,Pakistan,Karachi,Bahadurabad,24.903628,66.980676,indian|curry|street food,halal options|vegetarian options,medium,4.0,1833,True,True,False
+60,Taste of Urban DHA,Pakistan,Karachi,DHA,24.856137,66.947604,seafood|bbq|karahi,halal|family,medium,4.4,9009,True,True,True
+61,Green Hub Blue Area,Pakistan,Islamabad,Blue Area,33.627864,73.063503,asian|bbq|karahi,halal|family,medium,4.4,2109,False,True,True
+62,Street Pantry F-6,Pakistan,Islamabad,F-6,33.684205,73.073892,cafe|brunch,gluten-free options|vegetarian options,medium,4.4,2642,True,True,False
+63,Cedar Cafe Blue Area,Pakistan,Islamabad,Blue Area,33.640781,72.996277,cafe|thai|chinese,halal,high,4.2,14526,True,True,True
+64,Heritage Hub G-8,Pakistan,Islamabad,G-8,33.683157,73.005731,fast food|burgers|fries,halal,low,4.3,10932,True,True,True
+65,Central Room G-8,Pakistan,Islamabad,G-8,33.673693,73.026081,continental|vegan|international,vegan|vegetarian,medium,3.9,12826,True,True,True
+66,House of Street Bahria,Pakistan,Islamabad,Bahria,33.636365,73.097153,fine dining|fusion,halal,high,4.6,7333,True,True,False
+67,Lime Feast F-7,Pakistan,Islamabad,F-7,33.705323,73.051935,continental|desi|family,halal|family,medium,4.6,14084,False,True,False
+68,Garden Hub Blue Area,Pakistan,Islamabad,Blue Area,33.741801,73.079144,pakistani|brunch|cafe,gluten-free options|vegetarian options,medium,4.5,7230,True,True,True
+69,Heritage Social F-10,Pakistan,Islamabad,F-10,33.673846,73.069716,pakistani|bbq|karahi,halal|family,medium,3.8,8822,True,True,True
+70,House of Copper Blue Area,Pakistan,Islamabad,Blue Area,33.732269,73.04373,seafood|grill|family,halal|family,high,3.9,273,True,True,True
+71,Riverside Pantry F-10,Pakistan,Islamabad,F-10,33.7268,73.000698,bbq|grill|family,halal|family,high,3.8,6422,True,True,True
+72,The Saffron Bahria,Pakistan,Islamabad,Bahria,33.658743,73.083763,burgers|fries,halal,low,4.6,14913,True,True,True
+73,Green House G-8,Pakistan,Islamabad,G-8,33.719033,72.991904,fast food|burgers|fries,halal,low,4.4,5181,True,True,False
+74,Green Social F-10,Pakistan,Islamabad,F-10,33.644145,73.097586,cafe|desserts|bakery,vegetarian options,low,4.7,13726,False,False,True
+75,Green Room F-10,Pakistan,Islamabad,F-10,33.740472,73.084451,pakistani|desi|family,halal|family,medium,4.5,6631,True,True,True
+76,Riverside Feast G-8,Pakistan,Islamabad,G-8,33.70538,73.044477,burgers|desi|family,halal|family,medium,4.7,1895,True,False,True
+77,Copper Hub G-8,Pakistan,Islamabad,G-8,33.737951,73.024424,asian|thai|chinese,halal,high,3.7,862,True,True,False
+78,Olive Grill F-7,Pakistan,Islamabad,F-7,33.683122,73.036874,burgers|vegan|international,vegan|vegetarian,medium,4.4,13779,False,True,True
+79,Blue House Blue Area,Pakistan,Islamabad,Blue Area,33.741741,73.030941,indian|curry|street food,halal options|vegetarian options,medium,4.0,14893,True,True,True
+80,Urban Table Blue Area,Pakistan,Islamabad,Blue Area,33.718837,73.012525,pakistani|desi|family,halal|family,medium,3.9,2183,False,True,True
+81,Urban Lounge F-7,Pakistan,Islamabad,F-7,33.689226,73.083722,pizza|italian,vegetarian options,low,3.8,2249,True,True,True
+82,Urban Corner F-10,Pakistan,Islamabad,F-10,33.68753,73.07738,asian|thai|chinese,halal,high,3.8,7017,True,True,True
+83,Spice Hub F-6,Pakistan,Islamabad,F-6,33.74423,73.089576,indian|curry|street food,halal options|vegetarian options,medium,4.8,1116,True,True,True
+84,House of Lime Blue Area,Pakistan,Islamabad,Blue Area,33.688067,73.042346,pakistani|desi|family,halal|family,medium,4.1,9907,True,True,True
+85,Central Plate Bahria,Pakistan,Islamabad,Bahria,33.72369,73.035748,fine dining|fusion,halal,high,3.9,5673,True,True,True
+86,The Royal F-10,Pakistan,Islamabad,F-10,33.713056,73.085312,pizza|italian,vegetarian options,low,4.1,12319,True,True,True
+87,Olive Table F-10,Pakistan,Islamabad,F-10,33.636832,73.04879,continental|fusion,halal,high,4.3,5881,True,True,False
+88,Garden Plate F-10,Pakistan,Islamabad,F-10,33.699007,73.068897,continental|brunch|cafe,gluten-free options|vegetarian options,medium,4.8,13529,True,True,True
+89,Heritage Spot Bahria,Pakistan,Islamabad,Bahria,33.692359,73.035994,continental|burgers|fries,halal,low,3.8,2467,True,True,True
+90,House of Lime Bahria,Pakistan,Islamabad,Bahria,33.695947,73.093901,bbq|brunch|cafe,gluten-free options|vegetarian options,medium,4.5,9419,True,True,True
+91,Saffron Pantry Soho,UK,London,Soho,51.460858,-0.13601,vegetarian|burgers|fries,halal,low,3.9,8514,True,True,True
+92,Cafe Green Southbank,UK,London,Southbank,51.486575,-0.186672,vegetarian|burgers|fries,halal,low,4.5,4862,True,True,True
+93,Blue Bistro Southbank,UK,London,Southbank,51.449449,-0.077061,asian|thai|chinese,halal,high,4.5,7267,False,True,True
+94,Cedar Kitchen Southbank,UK,London,Southbank,51.502412,-0.104847,italian|fusion,halal,high,3.8,10247,True,True,True
+95,Cedar Hub Camden,UK,London,Camden,51.467376,-0.126342,italian|grill|family,halal|family,high,3.9,12885,True,True,False
+96,House of Central Canary Wharf,UK,London,Canary Wharf,51.538426,-0.108939,pizza|italian,vegetarian options,low,3.8,2624,True,True,True
+97,The Saffron Shoreditch,UK,London,Shoreditch,51.54276,-0.11663,vegan|grill|family,halal|family,high,4.1,5081,True,True,True
+98,Royal Bistro Soho,UK,London,Soho,51.51684,-0.073092,british|bbq|karahi,halal|family,medium,4.2,7701,True,True,False
+99,Saffron Grill Shoreditch,UK,London,Shoreditch,51.555095,-0.146387,vegan|fusion,halal,high,4.1,13406,True,True,True
+100,Golden Social Covent Garden,UK,London,Covent Garden,51.540136,-0.106132,vegetarian|desserts|bakery,vegetarian options,low,3.9,6817,True,True,True
+101,Cedar Hub Canary Wharf,UK,London,Canary Wharf,51.519524,-0.169555,pakistani|desi|family,halal|family,medium,4.6,14969,True,True,False
+102,Cedar Grill Canary Wharf,UK,London,Canary Wharf,51.514271,-0.110381,fine dining|fusion,halal,high,4.7,5192,True,True,True
+103,Royal Plate Southbank,UK,London,Southbank,51.468832,-0.161897,fine dining|fusion,halal,high,3.6,5180,False,True,True
+104,Street Table Covent Garden,UK,London,Covent Garden,51.462926,-0.142394,asian|italian|cafe,halal,high,4.7,10245,True,True,False
+105,Blue Room Covent Garden,UK,London,Covent Garden,51.537024,-0.133729,vegetarian|desserts|bakery,vegetarian options,low,4.3,12447,True,True,False
+106,Copper Pantry Camden,UK,London,Camden,51.510495,-0.071648,vegan|thai|chinese,halal,high,4.5,8359,False,True,True
+107,Blue House Canary Wharf,UK,London,Canary Wharf,51.481408,-0.096026,pakistani|bbq|karahi,halal|family,medium,4.2,2162,True,True,True
+108,Garden Pantry Camden,UK,London,Camden,51.453591,-0.127359,pakistani|desi|family,halal|family,medium,4.7,6917,True,False,True
+109,House of Saffron Soho,UK,London,Soho,51.538261,-0.131307,pizza|italian,vegetarian options,low,4.4,2393,True,True,True
+110,Olive House Covent Garden,UK,London,Covent Garden,51.45293,-0.137221,continental|italian|cafe,halal,high,3.9,2116,False,True,True
+111,Garden Grill Camden,UK,London,Camden,51.476068,-0.137612,seafood|grill|family,halal|family,high,3.6,5900,True,True,False
+112,Urban Feast Soho,UK,London,Soho,51.564925,-0.157162,british|brunch|cafe,gluten-free options|vegetarian options,medium,3.7,6458,True,True,True
+113,House of Golden Southbank,UK,London,Southbank,51.502955,-0.104153,fine dining|fusion,halal,high,4.6,11337,True,True,True
+114,Central Table Camden,UK,London,Camden,51.565895,-0.122436,italian|bbq|karahi,halal|family,medium,4.0,6644,True,True,True
+115,House of Olive Canary Wharf,UK,London,Canary Wharf,51.499968,-0.072823,pakistani|bbq|karahi,halal|family,medium,4.7,12298,True,True,True
+116,Olive Bistro Canary Wharf,UK,London,Canary Wharf,51.512657,-0.149055,italian|brunch|cafe,gluten-free options|vegetarian options,medium,4.8,3076,True,True,True
+117,Copper Social Shoreditch,UK,London,Shoreditch,51.520982,-0.135407,burgers|desserts|bakery,vegetarian options,low,4.5,5896,True,True,True
+118,Taste of Spice Southbank,UK,London,Southbank,51.540622,-0.143641,vegan|fusion,halal,high,3.8,3986,True,True,True
+119,Blue Pantry Southbank,UK,London,Southbank,51.491234,-0.149874,indian|curry|street food,halal options|vegetarian options,medium,4.3,8794,True,False,True
+120,Street Lounge Covent Garden,UK,London,Covent Garden,51.566764,-0.153331,indian|curry|street food,halal options|vegetarian options,medium,4.4,3635,False,True,True
+121,Copper Bistro Ancoats,UK,Manchester,Ancoats,53.500941,-2.217455,british|curry|street food,halal options|vegetarian options,medium,4.8,5356,True,True,True
+122,Golden Social Piccadilly,UK,Manchester,Piccadilly,53.515848,-2.274192,coffee|desserts|bakery,vegetarian options,low,3.7,3412,True,True,True
+123,Royal Hub Northern Quarter,UK,Manchester,Northern Quarter,53.483883,-2.2103,italian|brunch|cafe,gluten-free options|vegetarian options,medium,4.5,7962,False,True,False
+124,Blue Grill Deansgate,UK,Manchester,Deansgate,53.491334,-2.210466,british|desi|family,halal|family,medium,4.5,10602,True,True,False
+125,Golden Spot Ancoats,UK,Manchester,Ancoats,53.528191,-2.201088,indian|brunch|cafe,gluten-free options|vegetarian options,medium,3.9,8621,True,True,True
+126,Royal Corner Piccadilly,UK,Manchester,Piccadilly,53.499848,-2.216124,vegetarian|fusion,halal,high,4.3,2924,True,True,True
+127,Riverside Cafe Ancoats,UK,Manchester,Ancoats,53.424434,-2.19592,british|desi|family,halal|family,medium,4.1,10589,True,True,True
+128,Taste of Saffron Piccadilly,UK,Manchester,Piccadilly,53.493599,-2.26509,pizza|fusion,halal,high,4.2,5693,True,True,False
+129,The Riverside Northern Quarter,UK,Manchester,Northern Quarter,53.432417,-2.267775,continental|italian|cafe,halal,high,4.1,2428,True,True,True
+130,Lime Cafe Piccadilly,UK,Manchester,Piccadilly,53.476818,-2.197111,pizza|italian,vegetarian options,low,4.2,8553,True,True,True
+131,Spice Table Northern Quarter,UK,Manchester,Northern Quarter,53.499311,-2.24613,pakistani|thai|chinese,halal,high,4.3,13929,True,True,True
+132,Blue Table Rusholme,UK,Manchester,Rusholme,53.464303,-2.267968,pizza|desserts|bakery,vegetarian options,low,4.3,3309,True,True,True
+133,Green House Spinningfields,UK,Manchester,Spinningfields,53.48774,-2.258727,fine dining|fusion,halal,high,4.6,5675,True,True,True
+134,Lime Co. Ancoats,UK,Manchester,Ancoats,53.482661,-2.263244,british|bbq|karahi,halal|family,medium,3.8,14753,True,True,False
+135,Saffron Hub Deansgate,UK,Manchester,Deansgate,53.501657,-2.185012,fast food|burgers|fries,halal,low,3.6,5547,True,True,True
+136,Riverside Room Deansgate,UK,Manchester,Deansgate,53.483708,-2.216058,pizza|fusion,halal,high,4.3,2913,True,True,False
+137,House of Olive Piccadilly,UK,Manchester,Piccadilly,53.445267,-2.242382,pakistani|bbq|karahi,halal|family,medium,3.8,11433,True,True,False
+138,Central Spot Deansgate,UK,Manchester,Deansgate,53.45845,-2.281818,pakistani|bbq|karahi,halal|family,medium,4.2,6293,False,True,True
+139,Cafe Riverside Deansgate,UK,Manchester,Deansgate,53.533778,-2.184729,fine dining|fusion,halal,high,4.3,3804,True,True,True
+140,Taste of Cedar Northern Quarter,UK,Manchester,Northern Quarter,53.517354,-2.267746,vegetarian|italian,vegetarian options,low,4.6,12785,True,True,True
+141,Central Cafe Northern Quarter,UK,Manchester,Northern Quarter,53.504341,-2.286127,pizza|fusion,halal,high,3.9,9328,True,True,True
+142,Spice House Deansgate,UK,Manchester,Deansgate,53.502543,-2.286104,indian|brunch|cafe,gluten-free options|vegetarian options,medium,4.5,1767,False,False,True
+143,Heritage Spot Deansgate,UK,Manchester,Deansgate,53.431535,-2.233704,indian|curry|street food,halal options|vegetarian options,medium,3.7,12714,True,True,False
+144,Golden Table Piccadilly,UK,Manchester,Piccadilly,53.443157,-2.21272,vegetarian|vegan|international,vegan|vegetarian,medium,4.1,8236,False,True,True
+145,Lime Hub Rusholme,UK,Manchester,Rusholme,53.480069,-2.189973,seafood|grill|family,halal|family,high,4.4,8710,False,True,True
+146,House of Heritage Ancoats,UK,Manchester,Ancoats,53.443979,-2.229285,pizza|italian,vegetarian options,low,4.3,12527,True,True,True
+147,Golden Grill Rusholme,UK,Manchester,Rusholme,53.452094,-2.274337,italian|desi|family,halal|family,medium,4.7,231,True,False,True
+148,The Copper Deansgate,UK,Manchester,Deansgate,53.503129,-2.191827,british|grill|family,halal|family,high,4.0,6762,False,True,True
+149,Garden Grill Deansgate,UK,Manchester,Deansgate,53.465635,-2.218367,indian|burgers|fries,halal,low,4.1,10044,False,True,False
+150,Royal Pantry Piccadilly,UK,Manchester,Piccadilly,53.434265,-2.203147,asian|thai|chinese,halal,high,4.0,9363,False,True,True
+151,Copper House Jewellery Quarter,UK,Birmingham,Jewellery Quarter,52.437113,-1.889155,pizza|italian,vegetarian options,low,4.5,8128,False,True,True
+152,Heritage Kitchen City Centre,UK,Birmingham,City Centre,52.452348,-1.941636,pizza|grill|family,halal|family,high,4.6,12339,True,True,True
+153,Saffron Table Digbeth,UK,Birmingham,Digbeth,52.518099,-1.833,pakistani|desi|family,halal|family,medium,3.8,2338,True,True,False
+154,Cafe Blue City Centre,UK,Birmingham,City Centre,52.473367,-1.935118,indian|curry|street food,halal options|vegetarian options,medium,3.7,8922,False,True,False
+155,Olive Feast Edgbaston,UK,Birmingham,Edgbaston,52.444815,-1.927782,indian|curry|street food,halal options|vegetarian options,medium,3.9,5791,False,True,True
+156,The Spice Broad Street,UK,Birmingham,Broad Street,52.510594,-1.944559,vegetarian|vegan|international,vegan|vegetarian,medium,4.1,11130,True,True,True
+157,Garden Spot Jewellery Quarter,UK,Birmingham,Jewellery Quarter,52.46468,-1.914188,burgers|bbq|karahi,halal|family,medium,4.5,13528,True,True,True
+158,Golden Plate Edgbaston,UK,Birmingham,Edgbaston,52.53919,-1.869839,british|burgers|fries,halal,low,3.7,5762,False,True,True
+159,Saffron Room Jewellery Quarter,UK,Birmingham,Jewellery Quarter,52.443522,-1.894837,asian|burgers|fries,halal,low,4.0,11712,True,True,True
+160,Central Spot Selly Oak,UK,Birmingham,Selly Oak,52.470729,-1.886124,burgers|italian|cafe,halal,high,4.7,13999,False,True,True
+161,Central Cafe Selly Oak,UK,Birmingham,Selly Oak,52.462583,-1.841321,indian|grill|family,halal|family,high,4.6,5575,True,True,False
+162,Central Feast Broad Street,UK,Birmingham,Broad Street,52.460167,-1.89445,indian|curry|street food,halal options|vegetarian options,medium,4.3,12826,True,True,True
+163,Saffron Spot City Centre,UK,Birmingham,City Centre,52.431686,-1.84671,vegetarian|curry|street food,halal options|vegetarian options,medium,4.0,6901,True,True,True
+164,Cafe Cedar Selly Oak,UK,Birmingham,Selly Oak,52.486116,-1.871847,seafood|grill|family,halal|family,high,4.3,4146,True,True,False
+165,Copper Corner Broad Street,UK,Birmingham,Broad Street,52.512638,-1.891802,fine dining|fusion,halal,high,4.0,2413,False,True,True
+166,Royal Table Digbeth,UK,Birmingham,Digbeth,52.501884,-1.942244,asian|brunch|cafe,gluten-free options|vegetarian options,medium,4.1,13924,True,True,True
+167,Taste of Urban Digbeth,UK,Birmingham,Digbeth,52.459169,-1.833102,seafood|grill|family,halal|family,high,3.6,11952,True,True,True
+168,House of Blue Jewellery Quarter,UK,Birmingham,Jewellery Quarter,52.435682,-1.835284,pakistani|desi|family,halal|family,medium,3.9,6622,True,True,True
+169,Taste of Cedar Edgbaston,UK,Birmingham,Edgbaston,52.50261,-1.866059,fine dining|fusion,halal,high,4.3,1039,True,True,True
+170,Taste of Riverside Edgbaston,UK,Birmingham,Edgbaston,52.508331,-1.916755,seafood|grill|family,halal|family,high,3.7,1338,True,True,True
+171,Green Feast Edgbaston,UK,Birmingham,Edgbaston,52.455057,-1.850242,pakistani|bbq|karahi,halal|family,medium,4.0,9359,True,True,True
+172,Taste of Garden Broad Street,UK,Birmingham,Broad Street,52.49882,-1.876736,continental|italian|cafe,halal,high,4.6,5700,True,False,True
+173,Taste of Olive Broad Street,UK,Birmingham,Broad Street,52.505481,-1.940117,fast food|burgers|fries,halal,low,3.8,9718,True,True,True
+174,Green Feast Digbeth,UK,Birmingham,Digbeth,52.539355,-1.897032,vegetarian|burgers|fries,halal,low,3.7,205,True,True,True
+175,House of Royal City Centre,UK,Birmingham,City Centre,52.465132,-1.904171,indian|curry|street food,halal options|vegetarian options,medium,4.3,12972,True,True,True
+176,House of Heritage Selly Oak,UK,Birmingham,Selly Oak,52.433792,-1.898239,asian|thai|chinese,halal,high,3.9,2510,True,True,True
+177,Saffron Cafe Edgbaston,UK,Birmingham,Edgbaston,52.540059,-1.910534,asian|thai|chinese,halal,high,3.8,230,True,True,True
+178,Green Hub Edgbaston,UK,Birmingham,Edgbaston,52.483681,-1.929084,vegetarian|vegan|international,vegan|vegetarian,medium,4.7,3410,True,True,True
+179,Garden Spot Broad Street,UK,Birmingham,Broad Street,52.470002,-1.838552,indian|curry|street food,halal options|vegetarian options,medium,4.6,6557,True,False,True
+180,Copper Cafe Selly Oak,UK,Birmingham,Selly Oak,52.434499,-1.848665,pakistani|bbq|karahi,halal|family,medium,3.9,11471,False,True,True
+181,Butt Karahi,Pakistan,Lahore,Gulberg,31.5204,74.3587,pakistani|bbq|karahi,halal|family,medium,4.6,8200,True,True,True
+182,Kolachi,Pakistan,Karachi,Do Darya,24.8138,67.0379,pakistani|bbq|seafood,halal|family,high,4.6,9900,True,True,True
+183,Dishoom Covent Garden,UK,London,Covent Garden,51.5129,-0.1267,indian|breakfast|curry,halal options|vegetarian options,medium,4.7,15000,True,True,True
+184,Bundobust Manchester,UK,Manchester,Piccadilly,53.4816,-2.2369,indian street food|vegetarian|beer,vegetarian|vegan,medium,4.6,3900,True,True,True
